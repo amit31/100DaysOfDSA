@@ -13,7 +13,7 @@
     <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
   </tr>
   <tr>
-    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Name Here</td>   <td><a href="https://github.com/Harsh971/100DaysOfDSA/tree/main/Day%201/Problem%20Name_LeetCode">Click Here</a></td>
+    <td>Day 1</td>   <td>❌ or ✅</td>  <td>Two Sum</td> <td><a href="https://github.com/amit31/100daysofcode/tree/main/0001-two-sum">Click Here</a></td>
   </tr> 
   
 </table> 
@@ -24,7 +24,7 @@
     <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
   </tr>
   <tr>
-    <td>Day 1</td> Two Sum  <td>❌ or ✅</td>  <td>Name Here</td>https://github.com/amit31/100daysofcode/tree/main/0001-two-sum <td><a href="">Click Here</a></td>
+    <td>Day 1</td> Two Sum  <td>❌ or ✅</td>  <td>Name Here</td> <td><a href="">Click Here</a></td>
   </tr> 
 </table> 
 
