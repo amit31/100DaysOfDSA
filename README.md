@@ -18,18 +18,6 @@
   
 </table> 
 
-## GeeksForGeeks
-<table> 
-  <tr>
-    <th></th>  <th>Status</th>   <th>Problem Name</th>   <th>Problem Solution</th>
-  </tr>
-  <tr>
-    <td>Day 1</td> Two Sum  <td>❌ or ✅</td>  <td>Name Here</td> <td><a href="">Click Here</a></td>
-  </tr> 
-</table> 
-
-
-
 
 ## <img src="https://camo.githubusercontent.com/7d747cc08b78d016646aed967d248840d37bb148002f56f7f24bc0f4e56ff540/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3132382f333433372f333433373239372e706e67" width="30" /> Connect with Me
 <p>
