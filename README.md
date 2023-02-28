@@ -24,6 +24,7 @@
 
 
  
- <h3 align="left">Support:</h3>
+ <h3 align="left">LinkedIN:</h3>  <a href="https://www.linkedin.com/in/amit-sharma3103/">Click Here</a>
+
 
 </p>
